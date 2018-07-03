@@ -1,0 +1,45 @@
+*, ::after, ::before
+  box-sizing: border-box
+  outline: none !important
+
+*::selection
+  color: color(selectionText)
+  background-color: color(selectioinBg)
+
+
+html, body
+  width: 100%
+  height: 100%
+
+
+body
+  font-family: 'Roboto', sans-serif
+  font-size: 14px
+  margin: 0
+  cursor: default
+  //overflow-x: hidden
+  &.open-modal
+    overflow: hidden
+    padding-right: 17px
+
+
+a, a:active, a:hover, a:focus
+  text-decoration: none
+  color: inherit
+
+
+h1, h2, h3, h4, h5, h6
+  font-weight: inherit
+  letter-spacing: normal
+  color: inherit
+  margin-bottom: 0
+  margin-top: 0
+  font-family: inherit
+
+p
+  margin: 0
+
+img
+  width: auto
+  max-width: 100%
+  object-fit: contain
