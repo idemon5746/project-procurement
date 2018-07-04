@@ -1,0 +1,36 @@
+[33mcommit c0e67fcb58bcbce9fc466e995bebd7a0edef600a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 9160efe a7f617e
+Author: Dima Donchenko <idemon806@gmail.com>
+Date:   Wed Jul 4 13:21:11 2018 +0300
+
+    pull
+
+[33mcommit 9160efec1fdd4e739afc6667ac774e72ec44c464[m
+Author: Dima Donchenko <idemon806@gmail.com>
+Date:   Wed Jul 4 13:13:03 2018 +0300
+
+    commit5
+
+[33mcommit a7f617e8bc5a8371eda8a0f184d16906a90ec5f6[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: idemon5746 <32420281+idemon5746@users.noreply.github.com>
+Date:   Wed Jul 4 13:05:39 2018 +0300
+
+    delete file
+
+[33mcommit edf012dfb1f8d4d69ee268acc6b8e4e80c823cc3[m
+Author: Dima Donchenko <idemon806@gmail.com>
+Date:   Wed Jul 4 13:00:41 2018 +0300
+
+    reload
+
+[33mcommit b2fe8e42da698a2f2d6ba9a39ad3fe0b33cd30bd[m
+Author: Dima Donchenko <idemon806@gmail.com>
+Date:   Tue Jul 3 18:45:07 2018 +0300
+
+    second commit
+
+[33mcommit ad153cfaa6463ef32bcc1349c618315b0bd650de[m
+Author: Dima Donchenko <idemon806@gmail.com>
+Date:   Tue Jul 3 18:27:31 2018 +0300
+
+    procurement ready
